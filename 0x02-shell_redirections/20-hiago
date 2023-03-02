@@ -1,2 +1,3 @@
 #!/bin/bash
-echo tr
+echo "2.3.3" | tr --delete .
+echo "2.3.3" | tr -d .       # for

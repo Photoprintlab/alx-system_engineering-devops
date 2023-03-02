@@ -1,2 +1,2 @@
 #!/bin/bash
-removeChar(char *str, char charToRemove)
+tr

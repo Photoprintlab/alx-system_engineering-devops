@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 #!/bin/bash
 pwd
+=======
+echo 0x00. Shell, basics
+>>>>>>> 39d877219f9ef0b50022c2e1860751b825c78094
